@@ -1,0 +1,2 @@
+(this.webpackJsonpmarvel=this.webpackJsonpmarvel||[]).push([[8],{56:function(n,e,o){"use strict";function t(){console.log("Wake up, Neo...")}function u(){console.log("Wake up, Neo... Again...")}o.r(e),o.d(e,"default",(function(){return t})),o.d(e,"loggerSec",(function(){return u}))}}]);
+//# sourceMappingURL=8.84202765.chunk.js.map

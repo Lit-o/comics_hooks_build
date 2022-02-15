@@ -1,0 +1,2 @@
+(this.webpackJsonpmarvel=this.webpackJsonpmarvel||[]).push([[7],{54:function(e,t,n){"use strict";n.r(t);var r=n(8),c=n(1);t.default=function(){return Object(c.jsxs)(c.Fragment,{children:[Object(c.jsx)("h1",{children:"Not found"}),Object(c.jsx)(r.b,{to:"/",style:{textDecoration:"underline",paddingTop:20},children:"Go to main page"})]})}}}]);
+//# sourceMappingURL=7.06717085.chunk.js.map
